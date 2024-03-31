@@ -1,22 +1,51 @@
+<img src="assets/banner.png" />
 <h1 align="center">Hi 👋, I'm JC</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcsamoyed&label=Profile%20views&color=0e75b6&style=flat" alt="jcsamoyed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcsamoyed" alt="jcsamoyed" /></a> </p>
-
-- 📫 How to reach me **jcsamoyed@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/jcsamoyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jcsamoyed" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jcsamoyed&label=Profile%20views&color=b09adb&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/built with-love-FFBFBF.svg" alt="built with love" />
+  <img src="https://img.shields.io/badge/made by-markdown-BED7DC.svg" alt="built with love" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 🛠️ &nbsp;Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcsamoyed&show_icons=true&locale=en&layout=compact" alt="jcsamoyed" /></p>
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=1572B6)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCss&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcsamoyed&show_icons=true&locale=en" alt="jcsamoyed" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcsamoyed&" alt="jcsamoyed" /></p>
+### 📊 &nbsp;Github Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcsamoyed&theme=aura_dark" alt="jcsamoyed" style="width: 100%; max-width: 846px;" />
+</p>
+<p style="display: flex; justify-content: center; grid-gap: 16px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcsamoyed&theme=aura_dark" alt="jcsamoyed" style="width: 100%; max-width: 415px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jcsamoyed&theme=aura_dark" alt="jcsamoyed" style="width: 100%; max-width: 415px;" />
+</p>
+
+---
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jocelyn-k-54a3062b7"><img src="https://img.shields.io/badge/-Jocelyn%20Kao-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jcsamoyed@gmail.com"><img src="https://img.shields.io/badge/-jcsamoyed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://codepen.io/jcsamoyed"><img src="https://img.shields.io/badge/-@jcsamoyed-333?style=flat&logo=codepen&logoColor=white"/></a>
+</p>
