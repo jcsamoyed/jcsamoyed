@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm JC</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jcsamoyed&label=Profile%20views&color=b09adb&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/built with-love-FFBFBF.svg" alt="built with love" />
-  <img src="https://img.shields.io/badge/made by-markdown-BED7DC.svg" alt="built with love" />
+  <img src="https://img.shields.io/badge/Built with-love-FFBFBF.svg" alt="Built with love" />
+  <img src="https://img.shields.io/badge/Made by-markdown-BED7DC.svg" alt="Made by markdown" />
 </p>
 
 ### 🛠️ &nbsp;Tech Stack
@@ -18,15 +18,15 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=1572B6)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCss&logoColor=563D7C)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Sourcetree](https://img.shields.io/badge/-Sourcetree-05122A?style=flat&logo=Sourcetree)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
 
 ---
 
