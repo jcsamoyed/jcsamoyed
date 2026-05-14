@@ -19,27 +19,7 @@ Crafting interactive websites with Vue / Nuxt / Motion
 
 ## 🛠 Tech Stack
 
-### Frontend
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxtdotjs)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-
-### Styling
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+<p> <img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs" /> <img src="https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxtdotjs" /> <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" /> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" /> <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" /> <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" /> <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass" /> <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss" /> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" /> <img src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery" /> <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" /> <img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode" /> <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" /> <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator" /> <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop" /> </p>
 
 ---
 
